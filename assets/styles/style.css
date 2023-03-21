@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,400;0,500;0,600;1,100&family=Roboto:wght@300;400&display=swap");
+body {
+  width: 1035px;
+  font-family: "Roboto", sans-serif;
+}
+
+#personal-info {
+  width: 40%;
+  height: auto;
+  /* border: 2px solid #009688; */
+  /* background: blue; */
+}
+
+.my-info {
+  position: relative;
+}
+.my-info img {
+  width: 100%
+}
+
+.my-info h3 {
+  position: absolute;
+  bottom: 0;  
+  left: 16px;
+  font-size: 30px;
+  /* margin: 10px 20px;  */
+}
+
+.text-icons {
+  margin-left: 70px;
+  color: #75758b;
+}
+.text-icons i {
+  color: red;
+}
+
+.fine-bare {
+  border: 1px solid #757575;
+  width: 90%;
+}
